@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 5e-06,
-          "height": 1e-05,
-          "width": 1e-05
+          "drill": 0.0,
+          "height": 2.8,
+          "width": 2.6
         },
         "silk_line_width": 0.12,
         "silk_text_italic": false,
@@ -49,7 +49,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.508
+          "min_clearance": 0.6
         }
       },
       "diff_pair_dimensions": [
@@ -233,7 +233,11 @@
         },
         {
           "diameter": 0.5,
-          "drill": 0.0
+          "drill": 0.25
+        },
+        {
+          "diameter": 0.8,
+          "drill": 0.4
         },
         {
           "diameter": 1.0,
@@ -743,20 +747,12 @@
       "Root"
     ],
     [
-      "a1865804-4053-4b6c-b725-3b172b655c52",
-      "Isolated AC Voltage Sensor1"
-    ],
-    [
       "3e972a19-b8a6-4c99-86cb-0bd8669bd933",
-      "Isolated AC Voltage Sensor2"
+      "Isolated AC Voltage Sensor1"
     ],
     [
       "12b4f04e-d63c-4892-b224-a03b3db488ef",
       "Non-Invasive AC Current Sensor1"
-    ],
-    [
-      "9374e0b1-cd65-4452-b239-8a90b4722300",
-      "Non-Invasive AC Current Sensor2"
     ]
   ],
   "text_variables": {}

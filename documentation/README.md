@@ -24,6 +24,8 @@
 
 - ZMCT/ZMPT source
   - https://a.co/d/7U0w1WT
+- ZMPT on LCSC
+  - https://www.lcsc.com/product-detail/Current-Sense-Transformers_ZHE-MING-LANG-XI-ZMPT101B_C111858.html?s_z=n_zmpt101b%2520
 - SCT-013-xxx source
   - https://a.co/d/iOVg5ov
 - current sensor used by EMON
@@ -36,3 +38,14 @@
   - https://www.digikey.ca/en/products/detail/vishay-dale/RCL06120000Z0EA/2587612
 - digital potentiometer 100k non-volatile
   - https://www.digikey.ca/en/products/detail/microchip-technology/MCP4161-104E-SN/1874204
+- line res RES 24.9K OHM 1% 1W 2512
+  - https://www.digikey.ca/en/products/detail/stackpole-electronics-inc/RMCF2512FT24K9/6053752
+- line res RES 24.9K OHM 1% 1/4W 1206
+  - https://www.digikey.ca/en/products/detail/stackpole-electronics-inc/RMCF1206FT24K9/1759803
+
+### other options
+
+- invasive transformers
+  - ZMPT107-1: https://www.lcsc.com/product-detail/Current-Transformers_Qingxian-Zeming-Langxi-Elec-ZMPT107-1_C125191.html
+  - https://www.digikey.ca/en/products/detail/zettler-magnetics/BV202D15006/22639775
+  - 
