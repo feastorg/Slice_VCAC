@@ -42,10 +42,14 @@
   - https://www.digikey.ca/en/products/detail/stackpole-electronics-inc/RMCF2512FT24K9/6053752
 - line res RES 24.9K OHM 1% 1/4W 1206
   - https://www.digikey.ca/en/products/detail/stackpole-electronics-inc/RMCF1206FT24K9/1759803
+- op amp mcp4161
+  - https://www.digikey.ca/en/products/detail/microchip-technology/MCP4161-104E-SN/1874204
+- op amp LM358BIDR
+  - https://www.digikey.ca/en/products/detail/texas-instruments/LM358BIDR/10715421
 
 ### other options
 
 - invasive transformers
   - ZMPT107-1: https://www.lcsc.com/product-detail/Current-Transformers_Qingxian-Zeming-Langxi-Elec-ZMPT107-1_C125191.html
   - https://www.digikey.ca/en/products/detail/zettler-magnetics/BV202D15006/22639775
-  - 
+  -
