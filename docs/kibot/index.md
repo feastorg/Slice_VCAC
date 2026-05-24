@@ -1,17 +1,12 @@
----
-title: "KiBot Outputs"
-description: "Index for KiBot-generated PCB artifacts."
-layout: "page"
----
+Slice VCAC KiBot Outputs
+============================
 
-These are the docs & KiBot Outputs for Slice VCAC
+Generated: 2026-05-24 at 16:37:29 UTC
 
-The following files were generated from the latest PCB build:
+## Artifacts
 
 - [Schematic.pdf](./Schematic.pdf)
 - [PCB.pdf](./PCB.pdf)
 - [kibot.log](./kibot.log)
 - [BREAD_Slice-bom.html](./BREAD_Slice-bom.html)
 - [BREAD_Slice-ibom.html](./BREAD_Slice-ibom.html)
-
-_Last updated automatically by KiBot via GitHub Actions._
