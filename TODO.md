@@ -2,4 +2,4 @@
 
 ## KiBot CI/Docs Pipeline
 
-- Awaiting first CI run
+- [x] Pipeline added and passing (all jobs green)
