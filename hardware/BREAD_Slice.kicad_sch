@@ -2643,7 +2643,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "kml-custom:AP63205WU-7"
+		(symbol "KMLib_IC_Power:AP63205WU-7_Buck_Regulator"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -2669,7 +2669,7 @@
 					)
 				)
 			)
-			(property "Footprint" "kml-custom:SOIC_05WU-7_DIO"
+			(property "Footprint" "KMLib_IC_SMD:SOIC_05WU-7_DIO"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -5987,7 +5987,7 @@
 		)
 	)
 	(symbol
-		(lib_id "kml-custom:AP63205WU-7")
+		(lib_id "KMLib_IC_Power:AP63205WU-7_Buck_Regulator")
 		(at 35.56 73.66 0)
 		(unit 1)
 		(body_style 1)
@@ -6017,7 +6017,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kml-custom:SOIC_05WU-7_DIO"
+		(property "Footprint" "KMLib_IC_SMD:SOIC_05WU-7_DIO"
 			(at 35.56 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -6342,7 +6342,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-LED:WS2812-5050-4PIN"
+		(property "Footprint" "KMLib_IC_SMD:WS2812-5050-4PIN"
 			(at 13.97 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -6757,7 +6757,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "kml-custom:Thermal Pad"
+		(property "Footprint" "KMLib_Mounting:Thermal_Pad"
 			(at 35.8648 97.79 0)
 			(hide yes)
 			(show_name no)

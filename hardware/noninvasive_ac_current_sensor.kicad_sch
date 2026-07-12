@@ -1517,7 +1517,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "kml-custom:CUI_SJ-3524-SMT"
+			(property "Footprint" "KMLib_Connectors:CUI_SJ-3524-SMT"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -4607,7 +4607,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kml-custom:CUI_SJ-3524-SMT"
+		(property "Footprint" "KMLib_Connectors:CUI_SJ-3524-SMT"
 			(at 247.65 113.03 0)
 			(hide yes)
 			(show_name no)
