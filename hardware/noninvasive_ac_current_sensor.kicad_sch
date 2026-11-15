@@ -1486,7 +1486,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "kml-custom:SJ-3524-SMT"
+		(symbol "KMLib_Connectors:SJ-3524-SMT_Stereo_Jack"
 			(pin_names
 				(offset 1.016)
 			)
@@ -1587,7 +1587,7 @@
 					(justify bottom)
 				)
 			)
-			(symbol "SJ-3524-SMT_0_0"
+			(symbol "SJ-3524-SMT_Stereo_Jack_0_0"
 				(rectangle
 					(start -7.62 -5.08)
 					(end 7.62 7.62)
@@ -4576,7 +4576,7 @@
 		)
 	)
 	(symbol
-		(lib_id "kml-custom:SJ-3524-SMT")
+		(lib_id "KMLib_Connectors:SJ-3524-SMT_Stereo_Jack")
 		(at 247.65 113.03 0)
 		(mirror y)
 		(unit 1)
